@@ -3,7 +3,7 @@
 The Loan Management System is a Django-based web application that allows users to register, apply for loans, make loan payments, and get statements of their loan transactions. 
 
 
-## Create a virtaul environment  
+## Create a virtual environment  
 
 ```sh
 $ virtualenv venv
