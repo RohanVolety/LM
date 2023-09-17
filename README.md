@@ -53,7 +53,7 @@ Request Body (JSON):
 {
   "Aadhar ID": "unique_user_id",
   "name": "John Doe",
-  "email_id": "johndoe@example.com",
+  "email_id": "rohan@gmail.com",
   "annual_income": 1500000,
   "credit_score":500
 
