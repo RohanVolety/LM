@@ -199,7 +199,7 @@ Response JSON (Failure):
 ```
 
 
-Model Schema
+## Model Schema
 
 ### 1. **User**
 
