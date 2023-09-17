@@ -239,3 +239,4 @@ Response JSON (Failure):
 * transaction_type (CharField): The type of the transaction, either 'DEBIT' or 'CREDIT.'
 
 
+Copyright © 2023, [Rohan Volety](https://github.com/RohanVolety).
